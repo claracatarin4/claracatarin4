@@ -7,7 +7,7 @@
   <img align="center" alt="clara-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="clara-MySql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="clara-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="clara-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
+  <img align="center" alt="clara-ReactNative" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
 
 
   
