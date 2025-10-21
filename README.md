@@ -1,4 +1,7 @@
-## Oiii meu nome é Clara Catarina!
+# Hii! I'm Clara Catarina 👋
+
+I am a student of **Systems Analysis and Development**, with experience as an intern in the **UX/UI** area, working on interface projects focused on user experience and accessibility. 
+I am organized, proactive, and oriented toward problem-solving, always looking to contribute creatively and efficiently in multidisciplinary teams, demonstrate a strong commitment to continuous learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -9,9 +12,7 @@
   <img align="center" alt="Clara-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-
 ##
-
 
 <div> 
   <a href="https://www.linkedin.com/in/clara-catarina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
