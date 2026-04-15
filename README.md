@@ -3,14 +3,6 @@
 I am a student of **Systems Analysis and Development**, with experience as an intern in the **UX/UI** area, working on interface projects focused on user experience and accessibility. 
 I am organized, proactive, and oriented toward problem-solving, my goal is always to be an efficient and valuable contributor to any multidisciplinary team, and I'm deeply committed to continuous learning!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Clara-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Clara-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Clara-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
 
 ##
 
