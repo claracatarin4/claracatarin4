@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm studying **Systems Analysis and Development** (Senac RJ) and about to start a **Bachelor's in Data Science & AI**. I worked as a **UX/UI intern at Gmaisp Tech**, contributing to scoping, interface design, and ER modeling across several products.
+I'm studied **Systems Analysis and Development** (Senac RJ) and I am UX/UI Designer and Developer.
 
 I'm organized, proactive, and solution-oriented — always aiming to be an efficient, reliable teammate on multidisciplinary projects, and genuinely committed to continuous learning.
 
