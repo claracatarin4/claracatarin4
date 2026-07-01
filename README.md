@@ -23,7 +23,7 @@ I'm organized, proactive, and solution-oriented — always aiming to be an effic
 - Currently deepening my skills in **Data Science & Artificial Intelligence**
 - Open to UX/UI design and front-end development opportunities
 
-### 🛠️ Tech & tools
+### Tech & tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -35,9 +35,4 @@ I'm organized, proactive, and solution-oriented — always aiming to be an effic
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=claracatarin4&show_icons=true&theme=merko&hide_border=true" alt="Clara's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracatarin4&layout=compact&theme=merko&hide_border=true" alt="Top languages" />
-</p>
