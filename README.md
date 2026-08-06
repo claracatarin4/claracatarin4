@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Clara Catarina</h1>
 
 <p align="center">
-  <strong>Systems Analyst • UX/UI Designer • Front-end Developer</strong>
+  <strong>Systems Analyst & UX/UI Designer</strong>
 </p>
 
 <p align="center">
